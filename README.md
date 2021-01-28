@@ -28,6 +28,6 @@ cd ../Evalversioning
 npm install 
 npm start
 cd site1/js
-wget www://jquery3.5.1.com
+npm install Jquery
 ```
 then when it's done, open the file call index.html in your web browser. 
