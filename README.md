@@ -25,7 +25,7 @@ To run the project, install Jquery locally by using npm :
 
 ```
 cd ../Evalversioning 
-npm install 
+npm install         
 npm start
 cd site1/js
 wget wwww://jquery3.5.1.com
